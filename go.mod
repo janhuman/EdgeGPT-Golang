@@ -1,4 +1,4 @@
-module github.com/wildyshi/EdgeGPT-Golang
+module github.com/wildy2828/EdgeGPT-Golang
 
 go 1.19
 
