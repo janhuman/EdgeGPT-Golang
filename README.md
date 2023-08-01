@@ -8,7 +8,7 @@ package main
 import (
 	"log"
 
-	EdgeGPT "github.com/wildyshi/EdgeGPT-Golang/Resources"
+	EdgeGPT "github.com/wildy2828/EdgeGPT-Golang/Resources"
 )
 
 func callback(answer *EdgeGPT.Answer) {
