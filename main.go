@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	EdgeGPT "github.com/wildy281/EdgeGPT-Golang/Resources"
+	EdgeGPT "github.com/wildy2828/EdgeGPT-Golang/Res"
 )
 
 func callback(answer *EdgeGPT.Answer) {
